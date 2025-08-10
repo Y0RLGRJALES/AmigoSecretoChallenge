@@ -1,24 +1,45 @@
-# AmigoSecretoChallenge
-Este repositorio forma parte de un desafío práctico en la formacion de principiante en programación. El objetivo principal es enfocarse en el desarrollo de la lógica con JavaScript, la estructura visual (HTML y CSS) la cual ya estaba diseñada previamente para el desafio. Para aplicar conceptos como funciones, variables, condicionales y arreglos
+# 🎁 AmigoSecretoChallenge
 
-# 🚀 Desafío de Programación para Principiantes
+Este repositorio forma parte de un **desafío práctico** en la formación de principiantes en programación. El objetivo principal es enfocarse en el desarrollo de la lógica con **JavaScript**, mientras que la estructura visual (HTML y CSS) ya ha sido diseñada previamente para el reto.
 
-## 👨‍💻 Propósito
+## 🚀 Desafío de Programación para Principiantes
 
-Este proyecto se realiza como parte de unesafío práctico en la formacion de principiante en programación. El enfoque está en aprender a desarrollar **la lógica con JavaScript** sin preocuparse por la parte visual del sitio, que ya ha sido construida con HTML y CSS.
+### 👨‍💻 Propósito
 
-### 💡 Lo que se aprenderá:
+Este proyecto se realiza como parte de un desafío práctico para aprender a construir la lógica de una aplicación web sin preocuparse por el diseño visual. El enfoque está en aplicar conceptos fundamentales de programación como:
 
-- Uso de funciones para estructurar el código.
-- Manipulación de arrays (arreglos) para organizar datos.
-- Condicionales para tomar decisiones en el programa.
+- Funciones
+- Variables
+- Condicionales
+- Arreglos (Arrays)
+
+## 💡 Lo que se aprenderá
+
+Durante el desarrollo de este proyecto, se pondrán en práctica habilidades clave como:
+
+- 🔧 Uso de **funciones** para estructurar el código
+- 📦 Manipulación de arrays (arreglos) para organizar datos.
+- 🔍 ACondicionales para tomar decisiones en el programa.
 - Variables para guardar y modificar información.
+
 
 ## 🧰 Tecnologías utilizadas
 
-- HTML (ya proporcionado)
-- CSS (ya proporcionado)
-- JavaScript
+| Lenguaje     | Propósito                      |
+|--------------|--------------------------------|
+| HTML         | Estructura visual (predefinida)|
+| CSS          | Estilos visuales (predefinidos)|
+| JavaScript   | Lógica de programación          |
+
+
 
 ## 📁 Estructura del proyecto
+
+challenge-amigo-secreto_esp-main/
+├── index.html
+├── style.css
+├── app.js
+└── assets/
+    └── amigo-secreto.png
+    └── play_circle_outline.png
 
