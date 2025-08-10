@@ -44,7 +44,7 @@ Durante el desarrollo de este proyecto, se pondrán en práctica habilidades cla
 
 ## 📁 Estructura del proyecto
 
-challenge-amigo-secreto_esp-main/
+AmigoSecretoChallenge/
 ├── index.html
 ├── style.css
 ├── app.js
